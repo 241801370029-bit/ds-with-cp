@@ -10,8 +10,8 @@ System.out.println(age);
 
 public static void main(String[]args){
 Student a = new Student();
-a.name = "Mohana";
-a.age = 19;
+a.name = "Vyshnavi";
+a.age = 18;
 System.out.println(a.name);
 System.out.println(a.age);
 a.getName();
